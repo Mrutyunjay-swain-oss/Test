@@ -5,7 +5,7 @@ void main() {
     int condition2 = 1; // Change this as needed
     int condition3 = 1; // Change this as needed
 
-    if (condition1) 
+    if (condition3) 
         if (condition2) 
             if (condition3)
             ;
